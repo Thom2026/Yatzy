@@ -1,0 +1,138 @@
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\roslyn\csc.exe
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\roslyn\vbc.exe
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\roslyn\VBCSCompiler.exe
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\YatzyGame.dll.config
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\YatzyGame.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\YatzyGame.pdb
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Antlr3.Runtime.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\EntityFramework.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\EntityFramework.SqlServer.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Owin.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Newtonsoft.Json.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Owin.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\System.Web.Helpers.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\System.Web.Mvc.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\System.Web.Optimization.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\System.Web.Razor.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\System.Web.WebPages.Deployment.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\System.Web.WebPages.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\System.Web.WebPages.Razor.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\WebGrease.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\System.Web.Helpers.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\System.Web.Mvc.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\System.Web.Optimization.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\System.Web.Razor.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\System.Web.WebPages.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\System.Web.WebPages.Deployment.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\System.Web.WebPages.Razor.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Antlr3.Runtime.pdb
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Newtonsoft.Json.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\EntityFramework.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\EntityFramework.SqlServer.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Owin.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\obj\Debug\YatzyGame.csprojResolveAssemblyReference.cache
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\obj\Debug\YatzyGame.dll
+C:\Users\phvor\OneDrive\Dokumenter\Visual Studio 2015\Projects\4th Semester\YatzyGame\YatzyGame\obj\Debug\YatzyGame.pdb
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\roslyn\csc.exe
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\roslyn\vbc.exe
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\roslyn\VBCSCompiler.exe
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\YatzyGame.dll.config
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\YatzyGame.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\YatzyGame.pdb
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Antlr3.Runtime.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\EntityFramework.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\EntityFramework.SqlServer.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Owin.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Newtonsoft.Json.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Owin.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\System.Web.Helpers.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\System.Web.Mvc.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\System.Web.Optimization.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\System.Web.Razor.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\System.Web.WebPages.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\System.Web.WebPages.Razor.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\WebGrease.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\System.Web.Helpers.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\System.Web.Mvc.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\System.Web.Optimization.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\System.Web.Razor.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\System.Web.WebPages.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\System.Web.WebPages.Razor.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Antlr3.Runtime.pdb
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Newtonsoft.Json.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\EntityFramework.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\EntityFramework.SqlServer.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Owin.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\obj\Debug\YatzyGame.csprojResolveAssemblyReference.cache
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\obj\Debug\YatzyGame.dll
+C:\Users\thoma\Documents\Skole\4 sem\Web\Yatzy\YatzyGame\YatzyGame\YatzyGame\obj\Debug\YatzyGame.pdb

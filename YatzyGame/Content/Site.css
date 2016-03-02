@@ -1,0 +1,92 @@
+body {
+	background-color: green;
+	margin-left: 20px;		
+}
+.headline {
+	font-size: 75px;	
+}
+.form {
+	font-size: 25px;
+}
+table {
+	float: left;
+    border-collapse: separate;
+	padding: 5px;
+	margin-right: 10px;
+	background-color: lightgrey;	
+}
+table, td, th {
+    border: 1px solid black;
+}
+.selectbutton {
+	border: 0px;
+}
+.selected {
+	display: none;
+}
+fieldset {
+	padding: 0px;
+	border: 0px;
+	width: 290px:
+}
+.roll, .start {
+	width: 75px;
+	height: 25px;
+	font-size: 20px;
+
+}
+.roll {
+	margin-left: 10px;
+}
+.newGameButton {
+	width: 125px;
+	height: 25px;
+	display: none;
+	font-size: 20px;
+	margin-left: 10px;
+}
+.scoreSelect {
+	width: 55px;
+	height: 18px;
+	font-size: 10px;
+	margin-left: 0px;
+	display: none;
+	visibility: visible;
+}
+.dice {
+	float: left;
+	height: 50px;
+	width: 50px;
+	background-color: white;
+	border-color: black;
+	border: 2px solid black;
+	margin-left: 10px;
+	text-align: center;
+	font-size: 40px;
+}
+.reroll {
+	float: left;
+	height: 50px;
+	width: 50px;
+	background-color: grey;
+	border-color: black;
+	border: 2px solid black;
+	margin-left: 10px;
+	text-align: center;
+	font-size: 40px;	
+}
+.score {
+
+}
+div {
+	float: left;
+	height: 50px;
+	width: 50px;
+	background-color: white;
+	border-color: black;
+	border: 2px solid black;
+	margin-left: 10px;
+	text-align: center;
+	font-size: 40;
+	padding: 0px;
+}
